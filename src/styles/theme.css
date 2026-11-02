@@ -13,7 +13,7 @@
 /* Light theme values */
 :root,
 [data-theme="light"] {
-  --background: #5c9df3;
+  --background: #fdfdfd;
   --foreground: #282728;
   --accent: #006cac;
   --accent-foreground: #ffffff;
