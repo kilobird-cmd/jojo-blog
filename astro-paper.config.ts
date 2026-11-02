@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
     title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    description: "JoJo blog theme.",
     author: "Sat Naing",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
