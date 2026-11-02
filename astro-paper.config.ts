@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
+    title: "JOJO个人博客",
     description: "JoJo blog theme.",
     author: "Sat Naing",
     profile: "https://satna.ing",
