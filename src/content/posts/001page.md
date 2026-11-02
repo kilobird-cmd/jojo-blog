@@ -12,6 +12,7 @@ description: C/C++ Creo ToolKit MFC。
 
 ## Creo二次开发菜单
 新版的菜单使用的是功能区定义Ribbon文件，功能区用户界面布局定义保存到 toolkitribbonui.rbn 文件。
+![图片的说明文字](/.0001.jpg)
 终于搞定了这个博客。
 | 姓名 | 爱好 | 职业 |
 | :--- | :---: | ---: |
